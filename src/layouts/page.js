@@ -9,6 +9,7 @@ export default class Page extends React.Component {
         return (
             <Layout {...this.props}>
             <div className="outer">
+            ...
               <div className="inner-medium">
                 <article className="post post-full">
                   <header className="post-header">
